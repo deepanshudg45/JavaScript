@@ -1,0 +1,17 @@
+const accountId= 5464661
+let accountMail= "deep@gmail.com"
+var accountPass= "deep42"
+accountCity= "Dehradun"
+let accountState;
+
+// accountId=15165 //not allowed to change in const variable
+// console.log(accountID);
+
+
+acountMail="deepanshu@gmail.com"
+accountPass="deepanshu45640"
+accountCity= "Delhi"
+
+//Do not use var because of block issue and functional issue.
+
+console.table([accountId,accountMail,accountPass,accountCity,accountState])
