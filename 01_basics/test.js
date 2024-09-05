@@ -1,0 +1,1 @@
+console.log("Deep has started learning JS.")
