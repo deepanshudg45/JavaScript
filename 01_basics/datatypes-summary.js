@@ -47,3 +47,14 @@ anotherName="ChaiAurCode"
 
 console.log(myYTname);
 console.log(anotherName);
+
+let user1={
+    email:"user1@gmail.com",
+    upi:"user1@ybl"
+}
+let user2= user1
+
+user2.email="user2@gmail.com"
+
+console.log(user1);
+console.log(user2);
